@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/karine94?tab=repositories](https://github.com/karine94?tab=repositories)
 
-- 💬 Fale comigo sobre **ciência de dados, tecnologia e Inteligência empresarial**
+- 💬 Fale comigo sobre **ciência de dados, tecnologia e conceitos estatísticos**
 
 - 📫 Como chegar até mim **karinealmeida.kca@gmail.com**
 
