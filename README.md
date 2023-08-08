@@ -5,11 +5,18 @@
 
 - 👯 Busco colaborar com **projetos de Data Science**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/karine94?tab=repositories](https://github.com/karine94?tab=repositories)
-
 - 💬 Fale comigo sobre **ciência de dados, tecnologia e conceitos estatísticos**
 
 - 📫 Como chegar até mim **karinealmeida.kca@gmail.com**
+
+## Projetos
+
+Aqui estão os projetos que desenvolvi como parte do meu portfólio
+
+* [Predição de preços do AirBnB Buenos Aires:](https://github.com/karine94/AIRBNB-BUENOS-AIRES.git)
+
+  Descrição: Este foi o primeiro projeto que fiz na área. Embora simples, me ajudou a desenvolver muitas habilidades. Neste projeto realizei análise gráficas, estatística descritiva, data wrangling e modelagem. Os modelos explorados neste projeto foram: regressão linear múltipla, Decision Tree e Random Forest. Para avaliar a performance dos modelos utilizei algumas métricas. 
+   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
