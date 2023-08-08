@@ -13,7 +13,7 @@
 
 Aqui estão os projetos que desenvolvi como parte do meu portfólio
 
-* [Predição de preços do AirBnB Buenos Aires:](https://github.com/karine94/AIRBNB-BUENOS-AIRES.git)
+* [Prevendo preços de acomodações do AirBnB Buenos Aires:](https://github.com/karine94/AIRBNB-BUENOS-AIRES.git)
 
   Descrição: Este foi o primeiro projeto que fiz na área. Embora simples, me ajudou a desenvolver muitas habilidades. Neste projeto realizei análise gráficas, estatística descritiva, data wrangling e modelagem. Os modelos explorados neste projeto foram: regressão linear múltipla, Decision Tree e Random Forest. Para avaliar a performance dos modelos utilizei algumas métricas. 
    
