@@ -24,7 +24,7 @@ Aqui estão os projetos que desenvolvi como parte do meu portfólio
 
  * [Dashboard no Power BI com análise de dados de RH](https://github.com/karine94/Analise-exploratoria-rh.git)
 
-  **Descrição:** Neste projeto respondo algumas perguntas relacionadas a média salarial dos funcionários, disponibilidade para fazer hora extra, nível de envolvimento no trabalho, entre outros.
+   **Descrição:** Neste projeto respondo algumas perguntas relacionadas a média salarial dos funcionários, disponibilidade para fazer hora extra, nível de envolvimento no trabalho, entre outros.
 
   
 <h3 align="left">Languages and Tools:</h3>
