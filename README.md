@@ -31,9 +31,9 @@ Aqui estão os projetos que desenvolvi como parte do meu portfólio
   **Descrição:** Utilizando uma base de dados fictícia (disponibilizada neste repositório), realizei uma Análise exploratória dos dados para obter insigts e responder perguntas de negócios. Além disso, utilizei modelos supervisionados de machine learning para previsão do preço de carros semi-novos de dois datasets. `Dataset 1`: é representado pelo arquivo cars_train. Este foi o dataset usado para treinar e validar os modelos. `Dataset 2`: representado pelo cars_test. Este dataset foi usado para fazer previsões futuras do preço dos carros.
   Os modelos explorados neste projeto foram *Modelos Lineares e Ensemble*. Para avaliar a performance dos modelos utilizei algumas métricas tais como *RMSE e R-Squared*.
 
-* [Dashboard no Power BI](https://github.com/karine94/Analise-exploratoria-rh.git)
+* [Dashboards no Power BI](https://github.com/karine94/Analise-exploratoria-rh.git)
 
-  **Descrição:** Neste projeto respondo algumas perguntas relacionadas a média salarial dos funcionários, disponibilidade para fazer hora extra, nível de envolvimento no trabalho, entre outros. 
+  **Descrição:** Este repositório contém projetos desenvolvidos no Power BI. 
 
   
 <h3 align="left">Skills e Tools:</h3>
