@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Me chamo Karine Almeida</h1>
 <h3 align="center">Eu sou Agrônoma e Cientista de dados em formação</h3>
 
-- 🌱 No momento estou aprendendo sobre **Modelagem de dados e linguagens: R, Python, SQL**
+- 🌱 No momento estou aprendendo sobre **Modelagem de dados e linguagens: R, Python, SQL, Deep Learning**
 
 - 👯 Busco colaborar com **projetos de Data Science**
 
@@ -18,7 +18,7 @@
   </a>
 </div>
 
-## Projetos
+## Portfólio
 
 Aqui estão os projetos que desenvolvi como parte do meu portfólio
 
@@ -34,6 +34,12 @@ Aqui estão os projetos que desenvolvi como parte do meu portfólio
 * [Dashboards no Power BI](https://github.com/karine94/Analise-exploratoria-rh.git)
 
   **Descrição:** Este repositório contém projetos desenvolvidos no Power BI. 
+
+
+* [Projetos em SQL](https://github.com/karine94/sql-projects.git)
+
+  **Descrição:** Este repositório contém projetos desenvolvidos com SQL.
+
 
   
 <h3 align="left">Skills e Tools:</h3>
