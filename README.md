@@ -1,13 +1,13 @@
-<h1 align="center">Olá 👋, Me chamo Karine Almeida</h1>
-<h3 align="center">Eu sou Agrônoma e Cientista de dados em formação</h3>
+<h1 align="center">Hi, I'm Karine Almeida 👋</h1>
+<h3 align="center">I'm an agronomist with a specialization in data science and analysis</h3>
 
-- 🌱 No momento estou aprendendo sobre **Modelagem de dados e linguagens: R, Python, SQL, Deep Learning**
+- 🌱 My skills are related to **Supervised and Unsupervised Models, Deep Learning, Time Series, Web Scraping, ETL, ADA**
 
-- 👯 Busco colaborar com **projetos de Data Science**
+- 👯 I'm looking to collaborate on **Data Science Projects**
 
-- 💬 Fale comigo sobre **ciência de dados, tecnologia e conceitos estatísticos**
+- 💬 Talk to me about **data science, technology and statistical concepts**
 
-- 📫 Como chegar até mim **karinealmeida.kca@gmail.com**
+- 📫 How to reach me **karinealmeida.kca@gmail.com**
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/karinealmeidaa/">
@@ -18,27 +18,26 @@
   </a>
 </div>
 
-## Portfólio
+## Portfolio
 
-Aqui estão os projetos que desenvolvi como parte do meu portfólio
+Here are the projects I've developed as part of my portfolio!
 
-* [Prevendo preços de acomodações do AirBnB Buenos Aires:](https://github.com/karine94/AIRBNB-BUENOS-AIRES.git)
+⭐ [EDA + Forecasting the price of used cars:](https://github.com/karine94/EDA-Forecast.git)
 
-  **Descrição:** Este foi o primeiro projeto que fiz na área. Embora simples, me ajudou a desenvolver muitas habilidades. Neste projeto realizei análise gráficas, estatística descritiva, data wrangling e modelagem. Os modelos explorados neste projeto foram: regressão linear múltipla, Decision Tree e Random Forest. Para avaliar a performance dos modelos utilizei algumas métricas. 
+  **Description:** Using a fictitious database (available in this repository), I carried out an exploratory analysis of the data to obtain insights and answer business questions. In addition, I used supervised machine learning models to predict the price of used cars from two datasets. `cars_train`: was the dataset used to train, validate and evaluate the model. `cars_test`: was the dataset used to make the predictions, with the model already running. 
+  The models explored in this project were *Linear and Ensemble models (bagging and boosting)*. To evaluate the performance of the models I used some metrics such as *RMSE and R-Squared*.
 
-* [EDA + Previsão do preço de automóveis seminovos:](https://github.com/karine94/EDA-Forecast.git)
+⭐ [Predicting prices for AirBnB Buenos Aires accommodation:](https://github.com/karine94/AIRBNB-BUENOS-AIRES.git)
 
-  **Descrição:** Utilizando uma base de dados fictícia (disponibilizada neste repositório), realizei uma Análise exploratória dos dados para obter insigts e responder perguntas de negócios. Além disso, utilizei modelos supervisionados de machine learning para previsão do preço de carros semi-novos de dois datasets. `Dataset 1`: é representado pelo arquivo cars_train. Este foi o dataset usado para treinar e validar os modelos. `Dataset 2`: representado pelo cars_test. Este dataset foi usado para fazer previsões futuras do preço dos carros.
-  Os modelos explorados neste projeto foram *Modelos Lineares e Ensemble*. Para avaliar a performance dos modelos utilizei algumas métricas tais como *RMSE e R-Squared*.
+  **Description:** This was the first project I did in the area. Although simple, it helped me develop many skills. In this project I carried out graphical analysis, descriptive statistics, data wrangling and modeling. The models explored in this project were: multiple linear regression, Decision Tree and Random Forest. To assess the performance of the models, I used a number of metrics. 
 
-* [Dashboards no Power BI](https://github.com/karine94/Analise-exploratoria-rh.git)
+⭐ [Dashboards with Power BI](https://github.com/karine94/Analise-exploratoria-rh.git)
 
-  **Descrição:** Este repositório contém projetos desenvolvidos no Power BI. 
+  **Description:** This repository contains projects developed with Power BI. 
 
+⭐ [SQL Projects](https://github.com/karine94/sql-projects.git)
 
-* [Projetos em SQL](https://github.com/karine94/sql-projects.git)
-
-  **Descrição:** Este repositório contém projetos desenvolvidos com SQL.
+  **Description:** This repository contains projects developed with SQL.
 
 
   
